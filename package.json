@@ -1,0 +1,22 @@
+{
+  "name": "ciphering-cli-tool",
+  "version": "1.0.0",
+  "description": "nodeJS tool",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node my_ciphering_cli"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HolubIvan/Ciphering-CLI-tool.git"
+  },
+  "author": "Ivan Holub",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HolubIvan/Ciphering-CLI-tool/issues"
+  },
+  "homepage": "https://github.com/HolubIvan/Ciphering-CLI-tool#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
