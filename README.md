@@ -15,6 +15,11 @@ Command string:
 
 node caesar options
 
+Example: 
+```
+node my_ciphering_cli -c "C1-A" -i "./input.txt" -o "./output.txt"
+```
+
 ## Options:
 
 -s, --shift: cipher shift. Positive or negative number
